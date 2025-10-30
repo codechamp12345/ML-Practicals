@@ -1,0 +1,9 @@
+curl -L https://tinyurl.com/26hc68zk -o file1.txt
+curl -L https://tinyurl.com/2d3dxa97 -o file2.txt
+curl -L https://tinyurl.com/2b9m55dm -o file3.txt
+curl -L https://tinyurl.com/28f4toqd -o file4.txt
+curl -L https://tinyurl.com/2azww86d -o file5.txt
+curl -L https://tinyurl.com/236xrfem -o file6.txt
+curl -L https://tinyurl.com/2bkg677k -o file7.txt
+curl -L https://tinyurl.com/25s2nhjp -o file8.txt
+curl -L https://tinyurl.com/226amgp6 -o file9.txt

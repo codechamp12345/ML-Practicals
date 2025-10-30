@@ -1,0 +1,9 @@
+curl -L https://tinyurl.com/26hc68zk -o LRSalary.py
+curl -L https://tinyurl.com/2d3dxa97 -o LRRent.py
+curl -L https://tinyurl.com/2b9m55dm -o LRSales.py
+curl -L https://tinyurl.com/28f4toqd -o MLRHouse.py
+curl -L https://tinyurl.com/2azww86d -o MLRIncome.py
+curl -L https://tinyurl.com/236xrfem -o logistic.py
+curl -L https://tinyurl.com/2bkg677k -o bagging.py
+curl -L https://tinyurl.com/25s2nhjp -o svm.py
+curl -L https://tinyurl.com/226amgp6 -o pca.py
